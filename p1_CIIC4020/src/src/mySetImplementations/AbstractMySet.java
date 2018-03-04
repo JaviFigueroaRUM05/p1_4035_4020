@@ -3,7 +3,7 @@ package src.mySetImplementations;
 import java.lang.reflect.Array;
 import java.util.Iterator;
 
-import interfaces.MySet;
+import src.interfaces.MySet;
 
 public abstract class AbstractMySet<E> implements MySet<E> {
 	public boolean isEmpty() { 

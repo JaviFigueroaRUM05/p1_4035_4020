@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-import dataGenerator.DataGenerator;
+import src.dataGenerator.DataGenerator;
 
 public class FilesGeneratorMain {
 
